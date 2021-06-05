@@ -2,7 +2,7 @@
 
 ❗ Un chois aléatoire d'un article sur Wikipedia totalement fait en Python par moi, et en français.
 
-🔮 Grâce a une requète API, on peut avoir les disponiblités.
+🔮 Grâce a une requète API, on peut avoir les disponiblités de vaccin.
 
 __Dépendences :__
 
